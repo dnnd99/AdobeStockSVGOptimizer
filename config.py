@@ -1,1 +1,15 @@
+INPUT_DIR = "input"
+OUTPUT_DIR = "output"
+PREVIEW_DIR = "preview"
 
+DEFAULT_COLOR = 8
+
+REMOVE_NOISE = True
+
+SIMPLIFY_PATH = True
+
+SMOOTH_EDGE = True
+
+MIN_OBJECT_AREA = 25
+
+MAX_NODE = 5000
